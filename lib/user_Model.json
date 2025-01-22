@@ -1,0 +1,62 @@
+{
+  "s":1,
+  "m":"Success",
+  "r":[
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Oswaldo",
+        "last": "Hernádez"
+      },
+      "location": {
+        "street": {
+          "number": 6240,
+          "name": "Peatonal Distrito Federal"
+        },
+        "city": "Puerto Morelos",
+        "state": "Chiapas",
+        "country": "Mexico",
+        "postcode": 67502,
+        "coordinates": {
+          "latitude": "22.0043",
+          "longitude": "-130.1008"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "oswaldo.hernadez@example.com",
+      "login": {
+        "uuid": "b6d9b92a-c077-4b46-9e58-28be4c682b3b",
+        "username": "goldenleopard216",
+        "password": "vamp",
+        "salt": "VbEETrxh",
+        "md5": "2f4eab0833dcaeea69e672d30e40b409",
+        "sha1": "0ae17e2368898f499ab64e83a89ab4a847bd37a2",
+        "sha256": "2f0a4881b11b23eb1c3dc3e3ba3bffe7ce223baf833fd46f97e90d35b5981d74"
+      },
+      "dob": {
+        "date": "1975-09-10T15:51:17.169Z",
+        "age": 47
+      },
+      "registered": {
+        "date": "2017-03-05T20:46:24.859Z",
+        "age": 6
+      },
+      "phone": "(627) 351 7276",
+      "cell": "(641) 691 1563",
+      "id": {
+        "name": "NSS",
+        "value": "13 16 28 8927 4"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/90.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+      },
+      "nat": "MX"
+    }
+  ]
+}
