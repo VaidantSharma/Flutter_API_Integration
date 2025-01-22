@@ -1,16 +1,18 @@
-# api_integration
+# Flutter API Integration App
 
-A new Flutter project.
+A **Flutter application** showcasing seamless integration with REST APIs. This app demonstrates fetching, displaying, and managing data from APIs, making it a perfect example for developers looking to understand API calls and data handling in Flutter.
 
-## Getting Started
+## Features
+- **Fetch Data**: Retrieve data from APIs and display it in a user-friendly format.
+- **POST Requests**: Send data to APIs to create new records.
+- **PUT & PATCH Requests**: Update existing records via API calls.
+- **DELETE Requests**: Remove data entries from the server.
+- **Error Handling**: Proper error handling for API responses (e.g., 404, 500 errors).
+- **Loading States**: Display loading indicators during network operations.
+- **Responsive Design**: Works on both Android and iOS devices.
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- **Flutter**: For building the cross-platform app.
+- **http**: For making HTTP requests.
+- **JSON Serialization**: For parsing and displaying API data.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
